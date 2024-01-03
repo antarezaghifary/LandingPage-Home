@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Poppins;
+    src: url();
+  }
+}
+html {
+  font-family: roboto;
+}
+
+h1 {
+  font-family: inter;
+}
